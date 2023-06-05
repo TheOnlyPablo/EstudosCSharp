@@ -1,0 +1,15 @@
+C:\ProjetosC#\Saida\Saida\bin\Debug\net7.0\Saida.exe
+C:\ProjetosC#\Saida\Saida\bin\Debug\net7.0\Saida.deps.json
+C:\ProjetosC#\Saida\Saida\bin\Debug\net7.0\Saida.runtimeconfig.json
+C:\ProjetosC#\Saida\Saida\bin\Debug\net7.0\Saida.dll
+C:\ProjetosC#\Saida\Saida\bin\Debug\net7.0\Saida.pdb
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.csproj.AssemblyReference.cache
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.AssemblyInfoInputs.cache
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.AssemblyInfo.cs
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.dll
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\refint\Saida.dll
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.pdb
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\Saida.genruntimeconfig.cache
+C:\ProjetosC#\Saida\Saida\obj\Debug\net7.0\ref\Saida.dll

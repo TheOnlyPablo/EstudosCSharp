@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExerPOO4\ExerPOO4\bin\Debug\net7.0\ExerPOO4.exe
+C:\ProjetosC#\ExerPOO4\ExerPOO4\bin\Debug\net7.0\ExerPOO4.deps.json
+C:\ProjetosC#\ExerPOO4\ExerPOO4\bin\Debug\net7.0\ExerPOO4.runtimeconfig.json
+C:\ProjetosC#\ExerPOO4\ExerPOO4\bin\Debug\net7.0\ExerPOO4.dll
+C:\ProjetosC#\ExerPOO4\ExerPOO4\bin\Debug\net7.0\ExerPOO4.pdb
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.AssemblyInfo.cs
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.dll
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\refint\ExerPOO4.dll
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.pdb
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ExerPOO4.genruntimeconfig.cache
+C:\ProjetosC#\ExerPOO4\ExerPOO4\obj\Debug\net7.0\ref\ExerPOO4.dll

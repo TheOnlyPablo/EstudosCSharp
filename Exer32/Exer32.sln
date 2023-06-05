@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer32", "Exer32\Exer32.csproj", "{64F98EB5-7974-407C-8113-C3869704279D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F98EB5-7974-407C-8113-C3869704279D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F98EB5-7974-407C-8113-C3869704279D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F98EB5-7974-407C-8113-C3869704279D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F98EB5-7974-407C-8113-C3869704279D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A11CB8C-E959-4847-918E-5035CE0B0E2C}
+	EndGlobalSection
+EndGlobal

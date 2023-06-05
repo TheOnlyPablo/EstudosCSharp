@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExerC\ExerC\bin\Debug\net7.0\ExerC.exe
+C:\ProjetosC#\ExerC\ExerC\bin\Debug\net7.0\ExerC.deps.json
+C:\ProjetosC#\ExerC\ExerC\bin\Debug\net7.0\ExerC.runtimeconfig.json
+C:\ProjetosC#\ExerC\ExerC\bin\Debug\net7.0\ExerC.dll
+C:\ProjetosC#\ExerC\ExerC\bin\Debug\net7.0\ExerC.pdb
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.AssemblyInfo.cs
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.dll
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\refint\ExerC.dll
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.pdb
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ExerC.genruntimeconfig.cache
+C:\ProjetosC#\ExerC\ExerC\obj\Debug\net7.0\ref\ExerC.dll

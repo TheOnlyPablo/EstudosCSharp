@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exercicio2\Exercicio2\bin\Debug\net7.0\Exercicio2.exe
+C:\ProjetosC#\Exercicio2\Exercicio2\bin\Debug\net7.0\Exercicio2.deps.json
+C:\ProjetosC#\Exercicio2\Exercicio2\bin\Debug\net7.0\Exercicio2.runtimeconfig.json
+C:\ProjetosC#\Exercicio2\Exercicio2\bin\Debug\net7.0\Exercicio2.dll
+C:\ProjetosC#\Exercicio2\Exercicio2\bin\Debug\net7.0\Exercicio2.pdb
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfo.cs
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.dll
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\refint\Exercicio2.dll
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.pdb
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\Exercicio2.genruntimeconfig.cache
+C:\ProjetosC#\Exercicio2\Exercicio2\obj\Debug\net7.0\ref\Exercicio2.dll

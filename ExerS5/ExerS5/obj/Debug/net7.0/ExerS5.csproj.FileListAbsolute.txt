@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExerS5\ExerS5\bin\Debug\net7.0\ExerS5.exe
+C:\ProjetosC#\ExerS5\ExerS5\bin\Debug\net7.0\ExerS5.deps.json
+C:\ProjetosC#\ExerS5\ExerS5\bin\Debug\net7.0\ExerS5.runtimeconfig.json
+C:\ProjetosC#\ExerS5\ExerS5\bin\Debug\net7.0\ExerS5.dll
+C:\ProjetosC#\ExerS5\ExerS5\bin\Debug\net7.0\ExerS5.pdb
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.AssemblyInfo.cs
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.dll
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\refint\ExerS5.dll
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.pdb
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ExerS5.genruntimeconfig.cache
+C:\ProjetosC#\ExerS5\ExerS5\obj\Debug\net7.0\ref\ExerS5.dll

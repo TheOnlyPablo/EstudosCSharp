@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exer43\Exer43\bin\Debug\net7.0\Exer43.exe
+C:\ProjetosC#\Exer43\Exer43\bin\Debug\net7.0\Exer43.deps.json
+C:\ProjetosC#\Exer43\Exer43\bin\Debug\net7.0\Exer43.runtimeconfig.json
+C:\ProjetosC#\Exer43\Exer43\bin\Debug\net7.0\Exer43.dll
+C:\ProjetosC#\Exer43\Exer43\bin\Debug\net7.0\Exer43.pdb
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.AssemblyInfo.cs
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.dll
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\refint\Exer43.dll
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.pdb
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\Exer43.genruntimeconfig.cache
+C:\ProjetosC#\Exer43\Exer43\obj\Debug\net7.0\ref\Exer43.dll

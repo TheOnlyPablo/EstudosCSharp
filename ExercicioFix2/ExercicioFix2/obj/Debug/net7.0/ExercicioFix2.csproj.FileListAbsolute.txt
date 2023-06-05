@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\bin\Debug\net7.0\ExercicioFix2.exe
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\bin\Debug\net7.0\ExercicioFix2.deps.json
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\bin\Debug\net7.0\ExercicioFix2.runtimeconfig.json
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\bin\Debug\net7.0\ExercicioFix2.dll
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\bin\Debug\net7.0\ExercicioFix2.pdb
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.AssemblyInfo.cs
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.dll
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\refint\ExercicioFix2.dll
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.pdb
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ExercicioFix2.genruntimeconfig.cache
+C:\ProjetosC#\ExercicioFix2\ExercicioFix2\obj\Debug\net7.0\ref\ExercicioFix2.dll

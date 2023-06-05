@@ -1,0 +1,5 @@
+C:\ProjetosC#\Exercicios21\Exercicios21\obj\Debug\net7.0\Exercicios21.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exercicios21\Exercicios21\obj\Debug\net7.0\Exercicios21.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exercicios21\Exercicios21\obj\Debug\net7.0\Exercicios21.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exercicios21\Exercicios21\obj\Debug\net7.0\Exercicios21.AssemblyInfo.cs
+C:\ProjetosC#\Exercicios21\Exercicios21\obj\Debug\net7.0\Exercicios21.csproj.CoreCompileInputs.cache

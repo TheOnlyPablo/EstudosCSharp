@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.AssemblyInfo.cs
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExerLista\ExerLista\bin\Debug\net7.0\ExerLista.exe
+C:\ProjetosC#\ExerLista\ExerLista\bin\Debug\net7.0\ExerLista.deps.json
+C:\ProjetosC#\ExerLista\ExerLista\bin\Debug\net7.0\ExerLista.runtimeconfig.json
+C:\ProjetosC#\ExerLista\ExerLista\bin\Debug\net7.0\ExerLista.dll
+C:\ProjetosC#\ExerLista\ExerLista\bin\Debug\net7.0\ExerLista.pdb
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.dll
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\refint\ExerLista.dll
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.pdb
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ExerLista.genruntimeconfig.cache
+C:\ProjetosC#\ExerLista\ExerLista\obj\Debug\net7.0\ref\ExerLista.dll

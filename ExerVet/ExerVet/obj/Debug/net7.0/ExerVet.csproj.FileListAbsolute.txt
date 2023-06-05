@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExerVet\ExerVet\bin\Debug\net7.0\ExerVet.exe
+C:\ProjetosC#\ExerVet\ExerVet\bin\Debug\net7.0\ExerVet.deps.json
+C:\ProjetosC#\ExerVet\ExerVet\bin\Debug\net7.0\ExerVet.runtimeconfig.json
+C:\ProjetosC#\ExerVet\ExerVet\bin\Debug\net7.0\ExerVet.dll
+C:\ProjetosC#\ExerVet\ExerVet\bin\Debug\net7.0\ExerVet.pdb
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.AssemblyInfo.cs
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.dll
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\refint\ExerVet.dll
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.pdb
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ExerVet.genruntimeconfig.cache
+C:\ProjetosC#\ExerVet\ExerVet\obj\Debug\net7.0\ref\ExerVet.dll

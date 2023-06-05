@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exer26\Exer26\bin\Debug\net7.0\Exer26.exe
+C:\ProjetosC#\Exer26\Exer26\bin\Debug\net7.0\Exer26.deps.json
+C:\ProjetosC#\Exer26\Exer26\bin\Debug\net7.0\Exer26.runtimeconfig.json
+C:\ProjetosC#\Exer26\Exer26\bin\Debug\net7.0\Exer26.dll
+C:\ProjetosC#\Exer26\Exer26\bin\Debug\net7.0\Exer26.pdb
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.AssemblyInfo.cs
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.dll
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\refint\Exer26.dll
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.pdb
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\Exer26.genruntimeconfig.cache
+C:\ProjetosC#\Exer26\Exer26\obj\Debug\net7.0\ref\Exer26.dll

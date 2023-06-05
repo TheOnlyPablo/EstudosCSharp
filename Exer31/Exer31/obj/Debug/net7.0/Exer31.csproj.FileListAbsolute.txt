@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exer31\Exer31\bin\Debug\net7.0\Exer31.exe
+C:\ProjetosC#\Exer31\Exer31\bin\Debug\net7.0\Exer31.deps.json
+C:\ProjetosC#\Exer31\Exer31\bin\Debug\net7.0\Exer31.runtimeconfig.json
+C:\ProjetosC#\Exer31\Exer31\bin\Debug\net7.0\Exer31.dll
+C:\ProjetosC#\Exer31\Exer31\bin\Debug\net7.0\Exer31.pdb
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.AssemblyInfo.cs
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.dll
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\refint\Exer31.dll
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.pdb
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\Exer31.genruntimeconfig.cache
+C:\ProjetosC#\Exer31\Exer31\obj\Debug\net7.0\ref\Exer31.dll

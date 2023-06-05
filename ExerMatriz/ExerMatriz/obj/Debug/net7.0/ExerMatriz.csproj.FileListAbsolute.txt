@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExerMatriz\ExerMatriz\bin\Debug\net7.0\ExerMatriz.exe
+C:\ProjetosC#\ExerMatriz\ExerMatriz\bin\Debug\net7.0\ExerMatriz.deps.json
+C:\ProjetosC#\ExerMatriz\ExerMatriz\bin\Debug\net7.0\ExerMatriz.runtimeconfig.json
+C:\ProjetosC#\ExerMatriz\ExerMatriz\bin\Debug\net7.0\ExerMatriz.dll
+C:\ProjetosC#\ExerMatriz\ExerMatriz\bin\Debug\net7.0\ExerMatriz.pdb
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.AssemblyInfo.cs
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.dll
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\refint\ExerMatriz.dll
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.pdb
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ExerMatriz.genruntimeconfig.cache
+C:\ProjetosC#\ExerMatriz\ExerMatriz\obj\Debug\net7.0\ref\ExerMatriz.dll

@@ -1,0 +1,15 @@
+C:\ProjetosC#\Execicio1\Execicio1\bin\Debug\net7.0\Execicio1.exe
+C:\ProjetosC#\Execicio1\Execicio1\bin\Debug\net7.0\Execicio1.deps.json
+C:\ProjetosC#\Execicio1\Execicio1\bin\Debug\net7.0\Execicio1.runtimeconfig.json
+C:\ProjetosC#\Execicio1\Execicio1\bin\Debug\net7.0\Execicio1.dll
+C:\ProjetosC#\Execicio1\Execicio1\bin\Debug\net7.0\Execicio1.pdb
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.csproj.AssemblyReference.cache
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.AssemblyInfoInputs.cache
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.AssemblyInfo.cs
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.dll
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\refint\Execicio1.dll
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.pdb
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\Execicio1.genruntimeconfig.cache
+C:\ProjetosC#\Execicio1\Execicio1\obj\Debug\net7.0\ref\Execicio1.dll

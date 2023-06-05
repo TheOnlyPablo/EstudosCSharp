@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exer25\Exer25\bin\Debug\net7.0\Exer25.exe
+C:\ProjetosC#\Exer25\Exer25\bin\Debug\net7.0\Exer25.deps.json
+C:\ProjetosC#\Exer25\Exer25\bin\Debug\net7.0\Exer25.runtimeconfig.json
+C:\ProjetosC#\Exer25\Exer25\bin\Debug\net7.0\Exer25.dll
+C:\ProjetosC#\Exer25\Exer25\bin\Debug\net7.0\Exer25.pdb
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.AssemblyInfo.cs
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.dll
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\refint\Exer25.dll
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.pdb
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\Exer25.genruntimeconfig.cache
+C:\ProjetosC#\Exer25\Exer25\obj\Debug\net7.0\ref\Exer25.dll

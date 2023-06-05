@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExercicioFix\ExercicioFix\bin\Debug\net7.0\ExercicioFix.exe
+C:\ProjetosC#\ExercicioFix\ExercicioFix\bin\Debug\net7.0\ExercicioFix.deps.json
+C:\ProjetosC#\ExercicioFix\ExercicioFix\bin\Debug\net7.0\ExercicioFix.runtimeconfig.json
+C:\ProjetosC#\ExercicioFix\ExercicioFix\bin\Debug\net7.0\ExercicioFix.dll
+C:\ProjetosC#\ExercicioFix\ExercicioFix\bin\Debug\net7.0\ExercicioFix.pdb
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.AssemblyInfo.cs
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.dll
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\refint\ExercicioFix.dll
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.pdb
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ExercicioFix.genruntimeconfig.cache
+C:\ProjetosC#\ExercicioFix\ExercicioFix\obj\Debug\net7.0\ref\ExercicioFix.dll

@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exer22\Exer22\bin\Debug\net7.0\Exer22.exe
+C:\ProjetosC#\Exer22\Exer22\bin\Debug\net7.0\Exer22.deps.json
+C:\ProjetosC#\Exer22\Exer22\bin\Debug\net7.0\Exer22.runtimeconfig.json
+C:\ProjetosC#\Exer22\Exer22\bin\Debug\net7.0\Exer22.dll
+C:\ProjetosC#\Exer22\Exer22\bin\Debug\net7.0\Exer22.pdb
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.AssemblyInfo.cs
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.dll
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\refint\Exer22.dll
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.pdb
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\Exer22.genruntimeconfig.cache
+C:\ProjetosC#\Exer22\Exer22\obj\Debug\net7.0\ref\Exer22.dll

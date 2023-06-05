@@ -1,0 +1,15 @@
+C:\ProjetosC#\ExerC2\ExerC2\bin\Debug\net7.0\ExerC2.exe
+C:\ProjetosC#\ExerC2\ExerC2\bin\Debug\net7.0\ExerC2.deps.json
+C:\ProjetosC#\ExerC2\ExerC2\bin\Debug\net7.0\ExerC2.runtimeconfig.json
+C:\ProjetosC#\ExerC2\ExerC2\bin\Debug\net7.0\ExerC2.dll
+C:\ProjetosC#\ExerC2\ExerC2\bin\Debug\net7.0\ExerC2.pdb
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.csproj.AssemblyReference.cache
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.AssemblyInfoInputs.cache
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.AssemblyInfo.cs
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.dll
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\refint\ExerC2.dll
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.pdb
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ExerC2.genruntimeconfig.cache
+C:\ProjetosC#\ExerC2\ExerC2\obj\Debug\net7.0\ref\ExerC2.dll

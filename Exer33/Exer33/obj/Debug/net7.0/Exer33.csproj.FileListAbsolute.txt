@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exer33\Exer33\bin\Debug\net7.0\Exer33.exe
+C:\ProjetosC#\Exer33\Exer33\bin\Debug\net7.0\Exer33.deps.json
+C:\ProjetosC#\Exer33\Exer33\bin\Debug\net7.0\Exer33.runtimeconfig.json
+C:\ProjetosC#\Exer33\Exer33\bin\Debug\net7.0\Exer33.dll
+C:\ProjetosC#\Exer33\Exer33\bin\Debug\net7.0\Exer33.pdb
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.AssemblyInfo.cs
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.dll
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\refint\Exer33.dll
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.pdb
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\Exer33.genruntimeconfig.cache
+C:\ProjetosC#\Exer33\Exer33\obj\Debug\net7.0\ref\Exer33.dll

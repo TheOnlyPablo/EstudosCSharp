@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.AssemblyInfo.cs
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exer21\Exer21\bin\Debug\net7.0\Exer21.exe
+C:\ProjetosC#\Exer21\Exer21\bin\Debug\net7.0\Exer21.deps.json
+C:\ProjetosC#\Exer21\Exer21\bin\Debug\net7.0\Exer21.runtimeconfig.json
+C:\ProjetosC#\Exer21\Exer21\bin\Debug\net7.0\Exer21.dll
+C:\ProjetosC#\Exer21\Exer21\bin\Debug\net7.0\Exer21.pdb
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.dll
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\refint\Exer21.dll
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.pdb
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\Exer21.genruntimeconfig.cache
+C:\ProjetosC#\Exer21\Exer21\obj\Debug\net7.0\ref\Exer21.dll
